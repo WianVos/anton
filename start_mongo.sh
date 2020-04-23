@@ -1,0 +1,1 @@
+docker run -d  -p 27017:27017 -e MONGO_INITDB_DATABASE=anton mongo:4.2.5-bionic

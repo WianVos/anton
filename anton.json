@@ -1,0 +1,10 @@
+{
+    "Log": {
+      "MinFilter": "Debug"
+    },
+    "Mongo": {
+    "DB": "anton",
+    "Collection": "player",
+    "URL": "mongodb://localhost:27017" 
+    }
+  }
